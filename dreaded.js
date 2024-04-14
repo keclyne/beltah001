@@ -263,20 +263,12 @@ await client.sendMessage(from, {text: lod[i], edit: key });
 
 	   async function loadings () {
 var lod = [
-"10%",
-"20%",	
-"30%",
-"40%",
+"0%",
+"25%",	
 "50%",
-"60%",
-"70%",
-"80%",
-"90%",
+"75%",
 "100%",
-	"loading successful.."
-	
-	"Beltah 𝙿𝙸𝙽𝙶𝙸𝙽𝙶 now ◍ ◉ ⭗ "
-	
+	" Beltah 𝙿𝙸𝙽𝙶𝙸𝙽𝙶 now ◍ ◉ ⭗"
 ]
 let { key } = await client.sendMessage(from, {text: '⭓♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐏𝐨𝐧𝐠'})
 
@@ -1287,7 +1279,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/53077a0e00d6bda32a46b.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 using the GitHub link below🗿\n\nFork and give us a star✨.\n\n https://github.com/drexmose/drex-ai\n\nEnjoy and have fun with the bot🗿...\n\nUse the link below to pair 𝐃𝐑𝐄𝐗_𝐀𝐈 without scanning any qr code\n\n [https://replit.com/@darkintent120/Pairing-drex9]\n\nType ${prefix}Tutorial and follow the steps if you dont know how to deploy the bot\n\n           Made on Earth by 𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼` });
+`👋🏻 Hi *${pushname}*,You can deploy ♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐁𝐎𝐓 using the GitHub link below🗿\n\nFork and give us a star✨.\n\n https://github.com/Beltah/beltah001\n\nEnjoy and have fun with the bot🗿...\n\nUse the link below to pair ♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️ without scanning any qr code\n\n [https://replit.com/@beltahke17/Pairing-Beltah001]\n\nType ${prefix}Tutorial and follow the steps if you dont know how to deploy the bot\n\n           Made on Earth by 𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒🇰🇪` });
 
    break;
                                                   
