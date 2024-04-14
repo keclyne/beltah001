@@ -1,7 +1,7 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️';
+let botname = process.env.BOTNAME || '[𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡]';
 
 const owner = process.env.DEV || '254114141192'; // This will send a notification once the bot reconnects
 const {
@@ -300,7 +300,7 @@ function _0x4f5a() {
         '9rOCBsS',
         '5528200D',
         'group\x20rule',
-        '𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡\x20Bot',
+        '♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️\x20𝐁𝐎𝐓',
         'lry',
         'cBOYH',
         'ILuES',
@@ -734,7 +734,7 @@ function _0x4dc1() {
       console.log(color("Congrats, beltah tech has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as @audibeltah", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `[♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐁𝐎𝐓] 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n🤖♻️𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\n😬♻️Have fun with the bot\n\n♻️📲Contact the developer for help\n\n♻️😬https://wa.me/254102074064\n\n⚙️Made on earth by Beltah tech` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬\n┣❏[♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐁𝐎𝐓] 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝...\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬\n\n┣❏𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\n┣❏Have fun with the bot\n\n┣❏ *Contact the developer for help*\n\n┣❏[https://wa.me/254114141192]\n\n┣❏Made on earth by Beltah tech\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬` });
     }
     // console.log('Connected...', update)
   });
