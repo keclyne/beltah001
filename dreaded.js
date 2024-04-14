@@ -2091,7 +2091,7 @@ case "movie":
              } 
  break;
  
-      case "drex": case "owner": case "mose": 
+      case "developer": case "owner": case "Beltah": 
  client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/6b0e00c0fbd44e475b5a0.mp4' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐇𝐚𝐧𝐝𝐬𝐨𝐦𝐞 𝐎𝐰𝐧𝐞𝐫\n♻️https://wa.me/254114141192 🤭` }, {quoted: m}); 
   
  break;
