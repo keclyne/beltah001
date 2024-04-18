@@ -236,9 +236,9 @@ var lod = [
 "cloned by Beltah brian",
 "follow the below steps to deploy me",
 "Contact owner after deploying",
-	"𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 😁 "
+	"𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝚅𝙸𝙳𝙴𝙾 𝙵𝙾𝚁 𝙳𝙴𝙿𝙻𝙾𝚈𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙽𝙾𝚃 𝚈𝙴𝚃 𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴..\n\n┣❏🙂‍↕𝙰𝚜𝚔 𝙱𝚎𝚕𝚝𝚊𝚑 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚢𝚘𝚞 𝚒𝚗 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝🙂‍↔.."
 ]
-let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 ♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐁𝐎𝐓'})
+let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡-𝐁𝐎𝐓'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -252,9 +252,9 @@ var lod = [
 "cloned by beltah brian",
 "have fun with the bot",
 "type .sc to access my source code",
-	"𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 😁 "
+	"𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 😁\n\n┣❏𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝚅𝙸𝙳𝙴𝙾 𝙵𝙾𝚁 𝙳𝙴𝙿𝙻𝙾𝚈𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙽𝙾𝚃 𝚈𝙴𝚃 𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴....\n\n┣❏🙂‍↕𝙰𝚜𝚔 𝙱𝚎𝚕𝚝𝚊𝚑 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚢𝚘𝚞 𝚒𝚗 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝🙂‍↔ "
 ]
-let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 ♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐁𝐎𝐓'})
+let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡-𝐁𝐎𝐓'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -268,7 +268,7 @@ var lod = [
 "50%",
 "75%",
 "100%",
-	" ┣❏🙂‍↕𝚋𝚎𝚕𝚝𝚊𝚑 𝚙𝚒𝚗𝚐𝚒𝚗𝚐 𝚒𝚗 𝚊 𝚏𝚎𝚠🙂‍↔◍ ◉ ⭗"
+	" 🙂‍↕𝚋𝚎𝚕𝚝𝚊𝚑 𝚙𝚒𝚗𝚐𝚒𝚗𝚐 𝚒𝚗 𝚊 𝚏𝚎𝚠🙂‍↔◍ ◉ ⭗"
 ]
 let { key } = await client.sendMessage(from, {text: '📡𝙱𝚎𝚕𝚝𝚊𝚑 𝙿𝚘𝚗𝚐 𝙻𝚊𝚝𝚎𝚗𝚌𝚢'})
 
@@ -645,7 +645,7 @@ case 'play2': {
         from, {
           audio: fs.readFileSync(`./${randomName}`),
           mimetype: "audio/mpeg",
-          caption: "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝙱𝚛𝚒𝚊𝚗 𝚠𝚊𝚒𝚗𝚊𝚒𝚗𝚊"
+          caption: "𝙱𝚛𝚒𝚊𝚗 𝚠𝚊𝚒𝚗𝚊𝚒𝚗𝚊|𝙱𝚘𝚝 𝙱𝚎𝚕𝚝𝚊𝚑@𝟸𝟶𝟸𝟺™"
         }, {
           quoted: fcontact
         }
@@ -1246,7 +1246,7 @@ break;
           }
           break;
 
-case 'restart':  
+case 'restart':  case 'reboot':
   if (!Owner) throw `𝙱𝚛𝚒𝚊𝚗 𝚠𝚊𝚒𝚗𝚊𝚒𝚗𝚊 Only` 
   reply(`♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐁𝐎𝐓 is Restarting. . .`)  
   await sleep(3000)  
@@ -1280,7 +1280,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/53077a0e00d6bda32a46b.jpg` }, caption: 
-`▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬\n┣❏Hello *${pushname}*▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬\n\n┣❏You can deploy 𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡-𝐁𝐎𝐓 using the GitHub link below🗿\n\n┣❏Fork and give us a star✨.\n┣❏https://github.com/Beltah/beltah001\n\n┣❏Enjoy and have fun with the bot🗿...\n\n┣❏Use the link below to pair 𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡 without scanning any qr code\n┣❏[https://replit.com/@beltahke17/Pairing-Beltah001#index.js]\n\n┣❏TUTORIAL VIDEO IS NOT YET UPLOADED\n🙂‍↕Ask Beltah for guidance🙂‍↔\n\n\n𝙼𝚊𝚍𝚎 𝚘𝚗 𝚎𝚊𝚛𝚝𝚑 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑𝚔𝚎\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬` });
+`▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬\n┣❏Hello *${pushname}*▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬\n\n┣❏You can deploy 𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡-𝐁𝐎𝐓 using the GitHub link below🗿\n\n┣❏Fork and give us a star✨.\n┣❏https://github.com/Beltah/beltah001\n\n┣❏Enjoy and have fun with the bot🗿...\n\n┣❏Use the link below to pair 𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡 without scanning any qr code\n┣❏[https://replit.com/@beltahke17/Pairing-Beltah001#index.js]\n\n┣❏𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝚅𝙸𝙳𝙴𝙾 𝙵𝙾𝚁 𝙳𝙴𝙿𝙻𝙾𝚈𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙽𝙾𝚃 𝚈𝙴𝚃 𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴.\n🙂‍↕𝙰𝚜𝚔 𝙱𝚎𝚕𝚝𝚊𝚑 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚢𝚘𝚞 𝚒𝚗 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝🙂‍↔\n\n\n𝙼𝚊𝚍𝚎 𝚘𝚗 𝚎𝚊𝚛𝚝𝚑 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑𝚔𝚎\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬` });
 
    break;
                                                   
@@ -1790,7 +1790,7 @@ case 'yta': {
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-			caption:"𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 ♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐁𝐎𝐓",
+			caption:"𝙱𝚛𝚒𝚊𝚗 𝚠𝚊𝚒𝚗𝚊𝚒𝚗𝚊|𝙱𝚘𝚝 𝙱𝚎𝚕𝚝𝚊𝚑@𝟸𝟶𝟸𝟺™",
                     }, {
                         quoted: fcontact
                     }
@@ -1908,7 +1908,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 ♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐁𝐎𝐓`,
+                        caption: `𝙱𝚛𝚒𝚊𝚗 𝚠𝚊𝚒𝚗𝚊𝚒𝚗𝚊|𝙱𝚘𝚝 𝙱𝚎𝚕𝚝𝚊𝚑@𝟸𝟶𝟸𝟺™`,
                     }, {
                         quoted: m
                     }
@@ -1951,7 +1951,7 @@ m.reply (`📡𝙱𝚎𝚕𝚝𝚊𝚑 𝙿𝚘𝚗𝚐 𝙻𝚊𝚝𝚎𝚗𝚌
 
 case "alive": { 
   
- client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/5e29ca126d7a46aa3aef4.mp4' }, caption: `┣❏𝐇𝐞𝐥𝐥𝐨 *${m.pushName}*\n\n┣❏𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡-𝐁𝐎𝐓 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐚𝐥𝐢𝐯𝐞 𝐬𝐢𝐧𝐜𝐞\n┣❏*${runtime(process.uptime())} `,gifPlayback: true }, { quoted: m });
+ client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/5e29ca126d7a46aa3aef4.mp4' }, caption: `┣❏𝐇𝐞𝐥𝐥𝐨 *${m.pushName}*\n\n┣❏𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡-𝐁𝐎𝐓 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐚𝐥𝐢𝐯𝐞 𝐬𝐢𝐧𝐜𝐞\n┣❏*${runtime(process.uptime())} \n\n𝙱𝚘𝚝 𝙱𝚎𝚕𝚝𝚊𝚑@𝟸𝟶𝟸𝟺™ `,gifPlayback: true }, { quoted: m });
  }
 break;
 case 'apk': {
@@ -2209,7 +2209,7 @@ case "movie":
         case "gpt": case "g": 
           
 
-            if (!text) return reply("Hello am ♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️𝐁𝐎𝐓 an Ai developed by ♻️𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡♻️⸼, how can I help you today?");
+            if (!text) return reply("Hello am 𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡-𝐁𝐎𝐓 an Ai developed by 𝙱𝚛𝚒𝚊𝚗 𝚠𝚊𝚒𝚗𝚊𝚒𝚗𝚊⸼, how can I help you today?");
 
            const configuration = new Configuration({
 
